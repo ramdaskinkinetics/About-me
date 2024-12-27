@@ -40,35 +40,13 @@ Founded by innovators passionate about bridging human needs and technology, KinK
 
 | **Project Name**                         | **Description**                                                                                     | **Status**           |
 |------------------------------------------|-----------------------------------------------------------------------------------------------------|----------------------|
-| **Autonomous Emotional Support Unit**    | A robotic platform for monitoring and enhancing emotional well-being in isolation.                 | In Development       |
-| **Advanced Life Support Systems**        | Modular, scalable systems designed for maintaining human life in extreme environments.              | Prototype Stage      |
+| **Autonomous Emotional Support Unit**    | A robotic platform for monitoring and enhancing emotional well-being in isolation.                  | In Development       |
+| **Advanced Life Support Systems**        | Modular, scalable systems designed for maintaining human life in extreme environments.              | Research Phase       |
 | **Robotics for Space Applications**      | Specialized robotics designed to assist astronauts in microgravity conditions.                      | Research Phase       |
 
----
-
-## 🛠️ **Technologies We Work With**
-
-### Programming & Frameworks
-- Python, C++, ROS (Robot Operating System)
-
-### Hardware & Robotics
-- Embedded Systems, PCB Design, Actuators, Sensors
-
-### Design & Simulation
-- CAD/CAM, LabVIEW, MATLAB
-
-### Tools & Platforms
-- JIRA, LINEAR, Agile & Scrum Methodologies
 
 ---
 
-## 📈 **Key Achievements**
-
-- **Efficiency Boost:** Reduced operational costs and development timelines across multiple projects by integrating automation and robotics.  
-- **Space-Ready Systems:** Developed prototypes for space applications, focusing on adaptability and resilience.  
-- **Innovative Design:** Successfully designed systems for both industrial and human-centric needs, including government-compliant sewer cleaning robots.  
-
----
 
 ## 🌐 **Connect With Us**
 
@@ -76,7 +54,7 @@ Founded by innovators passionate about bridging human needs and technology, KinK
   <a href="https://linkedin.com/in/ramdas369">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ramdas369rd@gmail.com">
+  <a href="mailto:ramdas@kinkinetics.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/kinkinetics">
@@ -92,15 +70,6 @@ Founded by innovators passionate about bridging human needs and technology, KinK
 
 ---
 
-## 📂 **Repository Overview**
-
-| **Repository**                           | **Description**                                                                                     |
-|------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| **Emotional-Support-Systems**            | Development of AI-driven systems for mental health monitoring and support in isolation.            |
-| **Robotic-Platforms**                    | Hardware and software solutions for industrial and space applications.                             |
-| **Life-Support-Systems**                 | Advanced modular designs for resource management in extreme environments.                          |
-
----
 
 ## 📊 **GitHub Stats**
 
@@ -116,4 +85,4 @@ Founded by innovators passionate about bridging human needs and technology, KinK
 KinKinetics is always exploring partnerships and collaborations with innovators and visionaries. If you're passionate about **robotics, automation**, or **space technologies**, we’d love to hear from you!
 
 🌐 Visit us at: [kinkinetics.com](https://www.kinkinetics.com) | [kinkinetics.co.in](https://www.kinkinetics.co.in)  
-📧 Reach out: [ramdas369rd@gmail.com](mailto:ramdas369rd@gmail.com)  
+📧 Reach out: [ramdas369rd@gmail.com](mailto:ramdas@kinkinetics.com)  

@@ -85,4 +85,4 @@ Founded by innovators passionate about bridging human needs and technology, KinK
 KinKinetics is always exploring partnerships and collaborations with innovators and visionaries. If you're passionate about **robotics, automation**, or **space technologies**, we’d love to hear from you!
 
 🌐 Visit us at: [kinkinetics.com](https://www.kinkinetics.com) | [kinkinetics.co.in](https://www.kinkinetics.co.in)  
-📧 Reach out: [ramdas369rd@gmail.com](mailto:ramdas@kinkinetics.com)  
+📧 Reach out: [ramdas@kinkinetics.com](mailto:ramdas@kinkinetics.com)  
